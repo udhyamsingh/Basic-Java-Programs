@@ -1,0 +1,16 @@
+public class Demo
+{
+	static String c;
+	public static void main(String args[]){
+		int i[] = {4,7,8};
+
+		byte b = 10;
+		byte c = 20;
+
+//		byte d  = b+c;
+
+		float f = 23.0f;
+
+		System.out.println(f);
+	}
+}

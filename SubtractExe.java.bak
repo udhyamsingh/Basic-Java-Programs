@@ -1,0 +1,11 @@
+public class SubtractExe
+{
+	public static void main (String[] args)
+	{
+		Subtact s=new Subtract();
+		s.assign();
+		s.subtract();		
+		s.display();
+	}
+
+}

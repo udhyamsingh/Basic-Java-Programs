@@ -1,0 +1,19 @@
+public class Volume
+{
+	float v,pi,r,h;
+	public void assign()
+	{
+		pi=3.14f;
+		r=9.0f;
+		h=3.0f;
+	}
+	public float volume()
+	{
+		v=(pi*r*h)/3;
+		return(v);
+	}
+	public void display()
+	{
+		System.out.println(v);
+	}
+}

@@ -1,0 +1,10 @@
+public class MomentumExe
+{
+	public static void main(String[] args)
+	{
+		Momentum m=new momentum();
+		m.assign();
+		m.momentum();
+		m.display();
+	}
+}

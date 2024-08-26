@@ -1,0 +1,17 @@
+public class Momentum
+{
+	static int i=10;
+	public static void main(String[] args)
+	{
+	
+		Momentum a=new Momentum();
+		a.m1();
+	System.out.println(this.i);
+	}
+
+	public void m1(){
+		int i=20;
+		
+	}
+
+}
